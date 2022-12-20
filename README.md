@@ -5,7 +5,7 @@ This repository is about creating the blockchain crowdfunding project using Thir
 
 ## Running locally in your machine
 
-In your terminal, run the following code:
+download this project code. In your terminal, run the following code:
 ```
 npm run dev
 ```
