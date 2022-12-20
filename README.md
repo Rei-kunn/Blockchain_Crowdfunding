@@ -1,4 +1,4 @@
-# blockchain_crowdfunding
+# blockchain_crowdfunding (University Project)
 
 This repository is about creating the blockchain crowdfunding project using ThirdWeb, Solidity and ViteJs.
 
@@ -6,7 +6,7 @@ This repository is about creating the blockchain crowdfunding project using Thir
 ## Running locally in your machine
 
 download this project code. In your terminal, run the following code:
-```
+```bash
 npm run dev
 ```
 
